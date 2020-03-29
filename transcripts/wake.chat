@@ -1,0 +1,14 @@
+user=Marlon
+bot=GvinciBot
+
+user: hello
+bot: Hello! What would you like me to call you?
+
+user: Marlon
+bot: Hello, Marlon. Here are some examples I can help you with:
+* Are there any talks on Bot Framework?
+* When is Marlon Szul speaking?
+* Who is giving the keynotes?
+* Where can i hear the Typescript talk?
+
+bot: Just type in whatever you need! If you get stuck, just type "help"
